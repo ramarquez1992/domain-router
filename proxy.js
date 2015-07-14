@@ -14,7 +14,9 @@ var paths = {
 var domains = {                                                                 
   'marquez.space': '8081',                                                      
   'lookwhatialmoststeppedin.com': '8082',                                       
+  'afternoonhack.com': '8082',                                       
   'space.plumbing': '8083',                                       
+  'rubberduck.chat': '8083',                                       
   'default': '8081'                                                             
 };                                                                              
                                                                                 
