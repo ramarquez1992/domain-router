@@ -1,0 +1,25 @@
+{
+  "name": "node-proxy",
+  "version": "0.9.5",
+  "description": "Run multiple Node.js applications on a single server",
+  "author": {
+    "name": "Richard Marquez",
+    "email": "richard92m@me.com"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "ports"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richard92m/node-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/richard92m/node-proxy/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.13.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "proxyPort": "80",
+  "defaultAppPort": "8081",
+  "domains": {
+    "marquez.space": "8081",
+    "afternoonhack.com": "8082",
+    "rubberduck.chat": "8083"
+  },
+  "paths": {
+    "/foo": "8084",
+    "/bar": "8085"
+  }
+}
+
