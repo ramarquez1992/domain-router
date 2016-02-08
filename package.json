@@ -1,6 +1,6 @@
 {
   "name": "domain-router",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "Route specifc domains and paths to different Node.js applications on a single server",
   "author": {
     "name": "Richard Marquez",
@@ -29,4 +29,3 @@
     "http-proxy": "^1.13.1"
   }
 }
-

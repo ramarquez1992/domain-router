@@ -13,6 +13,8 @@ Route specific domains and paths to different Node.js applications on a single s
 - `domains`: list of domains and ports to route them to
 - `paths`: list of paths and ports to route them to
 
+If domain-router is installed globally you can find the configuration file (`config.json`) at `/usr/local/lib/node_modules/domain-router/config.json`.
+
 ### Default `config.json`
 ```json
 {
