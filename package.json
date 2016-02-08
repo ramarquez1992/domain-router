@@ -1,25 +1,32 @@
 {
-  "name": "node-proxy",
+  "name": "domain-router",
   "version": "0.9.5",
-  "description": "Run multiple Node.js applications on a single server",
+  "description": "Route specifc domains and paths to different Node.js applications on a single server",
   "author": {
     "name": "Richard Marquez",
     "email": "richard92m@me.com"
   },
+  "bin": {
+    "domain-router": "index.js"
+  },
   "keywords": [
     "node",
+    "proxy",
     "server",
-    "ports"
+    "ports",
+    "domains",
+    "router"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/richard92m/node-proxy.git"
+    "url": "git://github.com/richard92m/domain-router.git"
   },
   "bugs": {
-    "url": "https://github.com/richard92m/node-proxy/issues"
+    "url": "https://github.com/richard92m/domain-router/issues"
   },
   "license": "MIT",
   "dependencies": {
     "http-proxy": "^1.13.1"
   }
 }
+
